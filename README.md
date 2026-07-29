@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CBA6F7&center=false&vCenter=false&width=600&lines=Obsessive+Problem+Solver;Efficiency+%26+Automation+Nerd;Tinkerer+%26+System+Breaker)](https://git.io/typing-svg)
 
-I'm a nerd with an abnormal obsession with computers and problem solving. I'm too lazy to do tedious tasks, and often try to find an efficient and automated way to do them. That is why I love programming. I'm highly analytical and design systems with strong foundations and upgradability in mind. Whether I'm configuring an Arch or NixOS setup within a Niri environment, or tearing down networks, I like tinkering and breaking systems to fuel my curiosity.
-
 ## 🛠️ Tech Stack & Skills
 
 * **Languages:** Python (Proficient), JavaScript (Competent), C (Amateur)
