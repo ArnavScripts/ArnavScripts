@@ -1,45 +1,117 @@
-# Hi, I'm Arnav 👋
+````markdown
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CBA6F7&center=false&vCenter=false&width=600&lines=Obsessive+Problem+Solver;Efficiency+%26+Automation+Nerd;Tinkerer+%26+System+Breaker)](https://git.io/typing-svg)
+# amctl
 
-## 🛠️ Tech Stack & Skills
+> **Nullius in verba.**
+>
+> *Take nobody's word for it.*
 
-* **Languages:** Python (Proficient), JavaScript (Competent), C (Amateur)
-* **Core Skills:** GNU Linux (Proficient), Data Structures & Algorithms (Competent), Networking (Amateur)
-* **Areas of Interest:** Ethical Hacking, Penetration Testing, OSINT, Open Source, Automation, Optimizing & Building
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Systems+Programmer.;Linux+Enthusiast.;Open+Source+Advocate.;Read+the+source.;Build.+Break.+Learn.+Repeat." />
 
-## 🚀 Featured Projects
-
-* **ASTRA (Automated Space Tracking and Recognition Algorithm)**
-  * A computer vision system designed to detect and analyze safety equipment in space station environments.
-  * Built with a custom-trained YOLOv8m model to detect seven NASA safety objects.
-  * Backend powered by Python with PyTorch and TensorFlow-RT for model optimization and inference.
-  * Middleware uses FastAPI for serving real-time detections via REST endpoints.
-  * Frontend is a React-based web interface displaying live detections, confidence metrics, and an analytics dashboard.
-
-* **Nethunter Mi A2 (jasmine_sprout) Kernel**
-  * Compiled a custom nethunter kernel for the Mi A2 (jasmine_sprout) phone.
-  * Built using the proton-clang toolchain based on the Scarlet-X GPL Kernel Source.
-  * Created a flashable installer using AnyKernel3.
-
-## 🎓 Education
-
-* **B.E. Computer Science and Engineering**
-  * Chitkara Institute of Engineering & Technology (CIET)
-  * Class of '29 | 08/2025 - Present | Rajpura, India
-
-## 📇 Connect with Me
-
-* **Email:** workwitharnavmehta@gmail.com
-* **LinkedIn:** [linkedin.com/in/workwitharnav](https://linkedin.com/in/workwitharnav)
-* **HackerRank:** [hackerrank.com/profile/codewitharnavm](https://hackerrank.com/profile/codewitharnavm)
+</div>
 
 ---
 
-### 🐍 GitHub Contributions
+```bash
+$ whoami
+amctl
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnavscripts/arnavscripts/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnavscripts/arnavscripts/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arnavscripts/arnavscripts/output/github-contribution-grid-snake.svg">
-</picture>
+$ uname -o
+GNU/Linux
+
+$ cat philosophy.txt
+Nullius in verba.
+Read the source.
+Simplicity scales.
+
+$ ls interests
+
+backend/
+linux/
+systems/
+networking/
+opensource/
+security/
+
+$ uptime
+Still learning.
+````
+
+---
+
+## About
+
+I enjoy building reliable software and understanding how systems work beneath the abstraction layer.
+
+* Systems Programming
+* Linux & UNIX
+* Networking
+* Backend Engineering
+* Open Source
+* Performance & Low-Level Programming
+
+---
+
+## Toolbox
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,rust,go,python,java,bash,linux,git,docker,neovim,vscode,cmake" />
+
+</p>
+
+---
+
+## Philosophy
+
+> "What can be destroyed by the truth should be."
+
+> "Read the source."
+
+> "Per Aspera, Ad Astra."
+
+---
+
+## Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+## Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</p>
+
+---
+
+<div align="center">
+
+```
+Read the source.
+Question assumptions.
+Build things that last.
+```
+
+</div>
+```
