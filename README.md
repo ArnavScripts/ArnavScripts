@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # amctl
@@ -114,4 +113,3 @@ Build things that last.
 ```
 
 </div>
-```
